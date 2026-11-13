@@ -1,0 +1,16 @@
+# Ausdatasolutions
+
+> Australian data consultancy: data foundations, AI and automated-decision assurance, and applied analytics, built around regulatory deadlines (Privacy Act ADM duties from 10 December 2026, ASRS climate reporting, APRA CPS 230).
+
+## Site
+- [Home](https://ausdatasolutions.com.au/): services, industries, readiness score, FAQ
+
+## Articles (on the home page, opened by hash link)
+- https://ausdatasolutions.com.au/#insight-adm-10-december-2026
+- https://ausdatasolutions.com.au/#insight-asrs-climate-data-spine
+- https://ausdatasolutions.com.au/#insight-cps-230-data-checklist
+- https://ausdatasolutions.com.au/#insight-ai-readiness-six-questions
+- https://ausdatasolutions.com.au/#insight-ai-agents-control-tower
+- https://ausdatasolutions.com.au/#insight-sovereign-data-options
+
+General information only, not legal advice.
